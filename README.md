@@ -20,6 +20,9 @@ Software engineer, exchange architect, and quantitative systems builder (IIT Kan
 
 - **[smolix/pdfpresenter](https://github.com/smolix/pdfpresenter)** [![GitHub stars](https://img.shields.io/github/stars/smolix/pdfpresenter?style=flat&color=gold)](https://github.com/smolix/pdfpresenter) — Contributed tunable magnifier functionality (`1.0× ... 5.0×`), scroll wheel & trackpad pinch tuning, keyboard shortcuts, preset zoom levels, and live status bar feedback.
 - **[The Julia Language (Symbolics.jl)](https://github.com/JuliaSymbolics/Symbolics.jl)** [![GitHub stars](https://img.shields.io/github/stars/JuliaSymbolics/Symbolics.jl?style=flat&color=gold)](https://github.com/JuliaSymbolics/Symbolics.jl) — Google Summer of Code contributor. Implemented symbolic polynomial root-finding algorithms, analytical solvers (degrees $\le 4$), numerical methods for higher-order systems, and algebraic polynomial factorization routines in `Symbolics.jl` / `SymbolicUtils.jl`.
+- **[keep-starknet-strange/unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme)** [![GitHub stars](https://img.shields.io/github/stars/keep-starknet-strange/unruggable.meme?style=flat&color=gold)](https://github.com/keep-starknet-strange/unruggable.meme) — Contributed multi-theme favicon support, Dexscreener/Starkscan chart & explorer links, UI dropdown behavior, and frontend tooling.
+- **[cairo-book/cairo-book](https://github.com/cairo-book/cairo-book)** [![GitHub stars](https://img.shields.io/github/stars/cairo-book/cairo-book?style=flat&color=gold)](https://github.com/cairo-book/cairo-book) — Contributions to the official documentation and book for the Cairo programming language.
+- **[rabbitx-io/rabbitx-python-client](https://github.com/rabbitx-io/rabbitx-python-client)** [![GitHub stars](https://img.shields.io/github/stars/rabbitx-io/rabbitx-python-client?style=flat&color=gold)](https://github.com/rabbitx-io/rabbitx-python-client) — Fixed `OrderStatus` enum value parsing in order listing endpoints for the RabbitX perpetuals DEX Python client.
 
 ---
 
@@ -34,7 +37,7 @@ Software engineer, exchange architect, and quantitative systems builder (IIT Kan
 
 #### 🛠️ Tech Stack
 
-- **Languages:** `Python` • `Rust` • `Swift` • `TypeScript` • `Go` • `Julia` • `SQL` • `C++` • `Solidity` • `Dart`
+- **Languages:** `Python` • `Rust` • `Swift` • `TypeScript` • `Go` • `Julia` • `SQL` • `C++` • `Solidity` • `Cairo` • `Dart`
 - **Quant & Systems:** `HFT Engines` • `Orderbook Microstructure` • `Liquidity Aggregation` • `Risk & Margin Engines` • `PyTorch` • `NumPy` • `Pandas`
 - **Agentic AI & ML:** `Multi-Agent Reasoning` • `Model Context Protocol (MCP)` • `Vercel AI SDK` • `LLM Optimization` • `RAG Pipelines`
 - **Backend & Distributed:** `FastAPI` • `Node.js` • `gRPC` • `WebSocket` • `Docker` • `PostgreSQL` • `Redis` • `Kafka`
